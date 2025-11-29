@@ -1,0 +1,13 @@
+{
+    "name": "payment-system/myproject",
+    "type": "no",
+    "authors": [
+        {
+            "name": "Victor"
+        }
+    ],
+    "require": {
+        "yabacon/paystack-php": "^2.2",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
